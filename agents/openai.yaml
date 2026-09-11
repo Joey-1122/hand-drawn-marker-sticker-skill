@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hand-Drawn Marker Sticker"
+  short_description: "把照片或主题转成粗边框手绘贴纸插画"
+  default_prompt: "Use $hand-drawn-marker-sticker to turn this image or subject into a bright hand-drawn marker sticker illustration on warm textured paper."
