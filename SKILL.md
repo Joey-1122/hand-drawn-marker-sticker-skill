@@ -1,6 +1,6 @@
 ---
 name: hand-drawn-marker-sticker
-description: Create bright hand-drawn marker sticker illustrations from photos or subjects, with thick imperfect contours, clean source-faithful color, warm paper texture, generous margins, handmade captions, and light detail simplification for dense sources.
+description: Recreate the approved bright hand-drawn marker sticker style with thick imperfect contours, clean source-faithful color, simple charming shapes, warm paper texture, and light detail simplification for visually dense sources.
 ---
 
 # Hand-Drawn Marker Illustration — Bright Original
